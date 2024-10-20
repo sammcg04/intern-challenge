@@ -1,4 +1,4 @@
-# Coding Challenge: "Simple CSV Reader and CRUD API with Node.js
+# Coding Challenge: Simple CSV Reader and CRUD API with Node.js
 
 Read Data from a CSV File</br>
 RESTful API endpoints</br>
